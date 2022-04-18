@@ -41,9 +41,6 @@
 - 데이터 탐색하기(EDA) 
  * [PDF 1](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_02_Bike_EDA_2204.pdf) [PDF 2](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_03_Bike_EDA_2204.pdf)
  * [HTML 1](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_02_Bike_EDA_2204.html) [HTML 2](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_03_Bike_EDA_2204.html)
-
-### [Memo]
-* Bike 데이터 셋 실전 데이터 분석은 PythonBasic\part05_01_dataProject_bike의 내용 업데이트
  
 
  
