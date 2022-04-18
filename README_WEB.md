@@ -35,10 +35,8 @@
  - konlpy 기본 [Link]()
  
 ### [실습] Bike 데이터 셋 실전 데이터 분석
-- 데이터 불러오기 및 탐색 [PDF](pdf_html/Data_01_01_Bike_EDA_2204.pdf) [Notebook](Data_01_01_Bike_EDA_2204.ipynb)
-- 데이터 탐색하기(EDA) 
- * [PDF 1](pdf_html/Data_01_02_Bike_EDA_2204.pdf) [PDF 2](pdf_html/Data_01_03_Bike_EDA_2204.pdf)
- * [Notebook 1](Data_01_02_Bike_EDA_2204.ipynb) [Notebook 2](Data_01_03_Bike_EDA_2204.ipynb)
+- konlpy 기본 [Link]()
+
 
 ### [Memo]
 * Bike 데이터 셋 실전 데이터 분석은 PythonBasic\part05_01_dataProject_bike의 내용 업데이트
