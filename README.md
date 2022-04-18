@@ -34,6 +34,14 @@
 ### 09. 텍스트 데이터 처리 및 분석
  - konlpy 기본 [Link]()
  
+### [실습] Bike 데이터 셋 실전 데이터 분석
+- 데이터 불러오기 및 탐색 
+ * [PDF](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_01_Bike_EDA_2204.pdf) [HTML](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_01_Bike_EDA_2204.html)
  
+- 데이터 탐색하기(EDA) 
+ * [PDF 1](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_02_Bike_EDA_2204.pdf) [PDF 2](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_03_Bike_EDA_2204.pdf)
+ * [HTML 1](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_02_Bike_EDA_2204.html) [HTML 2](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_03_Bike_EDA_2204.html)
 
+
+ 
 
