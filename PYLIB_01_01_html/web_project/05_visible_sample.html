@@ -1,0 +1,58 @@
+<html>
+<head>
+<meta charset='utf-8'>
+<title> 보안 게임 </title>
+</head>
+<style>
+  #board {
+    border: 1px solid black;
+    background-color: LightGray;
+    height: 350px;
+    width: 650px;
+  }
+
+  .person {
+    background-color: lightblue;
+    border: 1px solid black;
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+  }
+
+  .hidden {
+    display: none;
+  }
+  .visible {
+    display: block;
+  }
+</style>
+<body>
+<input type="button" value="Visible_hidden" onclick="startGame()">
+<div id="board">
+  <div class="person">1</div>
+  <div class="person">2</div>
+  <div class="person">3</div>
+</div>
+<script>
+  var person_visible = False
+  function startGame() {
+    person_visible = !person_visible;
+    visible_hide();                // 게임 루프 함수    
+  }
+
+  function visible_hide() {
+    var board=document.getElementById("board")
+    var classSet = person_visible ? "person visible" : "person hidden"
+    board.children[0].className = classSet;
+    board.children[1].className = classSet;
+  }
+</script>
+</body>
+</html>
+
+
+
+
+

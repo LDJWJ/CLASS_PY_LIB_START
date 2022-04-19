@@ -1,0 +1,92 @@
+<html>
+<head>
+<meta charset='utf-8'>
+<title> 보안 게임 </title>
+</head>
+<style>
+  #board {
+    border: 1px solid black;
+    background-color: LightGray;
+    height: 350px;
+    width: 650px;
+  }
+
+  .person {
+    background:  url('Guest.jpeg');
+    background-color: lightblue;
+    border: 1px solid black;
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+  }
+
+  .thief {
+    background: url('Thief.jpeg');
+    background-size: cover;
+  }
+
+  .hidden {
+    display: none;
+  }
+  .visible {
+    display: block;
+  }
+
+</style>
+<body>
+<input type="button" value="Play" onclick="startGame()">
+<div id="board">
+  <div class="person">1</div>
+  <div class="person">2</div>
+  <div class="person">3</div>
+  <div class="person">4</div>
+  <div class="person">5</div>
+  <div class="person">6</div>
+</div>
+<script>
+  function startGame() {
+    gameLoop();                // 게임 루프 함수    
+  }
+
+  // 시간별 12번을 수행한다.
+  var cnt = 0;
+  var person_visible = false;
+  var gameScore = 0;
+  function gameLoop() {
+    cnt++;
+    visible_hide();
+    person_visible = !person_visible;
+    if (cnt < 13) {
+      setTimeout(gameLoop, !person_visible ? 1000 : 3000); // 나타나면 1초만에 사라짐. 아닐경우, 3초 타이머
+    }
+    else {
+      alert("게임 종료!!! 당신의 점수는 : " + gameScore);
+    }
+  }
+
+  function visible_hide() {
+    var board=document.getElementById("board")
+    var classSet = person_visible ? "person visible" : "person hidden";
+    for(var index=0; index<6; index++) {
+      board.children[index].className = classSet;
+      board.children[index].innerHTML = "";
+      board.children[index].onclick = function() {
+        gameScore += -2;
+      }
+    }
+    var randomNumber = Math.floor(Math.random() * 6) + 1;
+    board.children[randomNumber - 1].innerHTML = "";
+    board.children[randomNumber - 1].onclick = function() {
+      gameScore++;
+    }
+    board.children[randomNumber-1].className = classSet + ' thief';
+  }
+
+
+
+  
+</script>
+</body>
+</html>

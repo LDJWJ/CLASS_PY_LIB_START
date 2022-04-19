@@ -1,0 +1,58 @@
+<html>
+<head>
+<meta charset='utf-8'>
+<title> 보안 게임 </title>
+</head>
+<style>
+  #board {
+    border: 1px solid black;
+    background-color: LightGray;
+    height: 350px;
+    width: 650px;
+  }
+
+  .person {
+    background-color: lightblue;
+    border: 1px solid black;
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+  }
+</style>
+<body>
+<input type="button" value="Play" onclick="startGame()">
+<div id="board">
+  <div class="person">1</div>
+  <div class="person">2</div>
+  <div class="person">3</div>
+  <div class="person">4</div>
+  <div class="person">5</div>
+  <div class="person">6</div>
+</div>
+<script>
+  var cnt=0;
+  function startGame() {
+    gameLoop();                // 게임 루프 함수    
+  }
+
+  // 3초 간격, 12번을 수행한다.
+  var loops = 0;
+  function gameLoop() {
+    cnt++;
+    if (cnt < 13) {
+      setTimeout(gameLoop, 3000); // 3초 타이머
+    }
+    else {
+      alert("게임 종료!!!");
+    }
+  }
+</script>
+</body>
+</html>
+
+
+
+
+

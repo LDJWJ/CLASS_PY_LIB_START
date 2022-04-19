@@ -2,10 +2,16 @@
  파이썬 라이브러리 관련 수업
 
 ### 01. HTML 기본 이해
- - HTML 기본 태그 실습 [Link]()
+ - HTML 기본 태그 실습 [Link](./PYLIB_01_01_html)
+ - 웹 페이지 만들어보기 (Link)
  
-### 02. 웹 페이지 만들기
- - 웹 페이지 만들어보기 [Link]()
+### 02. 웹 데이터 수집 라이브러리 (bs4)
+ - 크롬 개발자 도구 [PDF](./PYLIB_01_02_크롬개발자도구/PYLIB_01_01_BS4_크롬개발자도구.pdf)
+ - Beautiful Soup 기본 이해 
+  * [CODE-PDF](./PYLIB_01_02B_BS4/Unit01_01_BS4_Basic.pdf) [CODE](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01_02B_BS4/Unit01_01_BS4_Basic.ipynb) 
+ - Beautiful Soup 상세(기본포함)
+  * [CODE-PDF](./PYLIB_01_02B_BS4/Unit01_02_BS4_all_v12_2204.pdf) [CODE](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01_02B_BS4/Unit01_02_BS4_all_v12_2204.html) 
+ - select를 활용한 데이터 가져오기 (LINK)
 
 ### 03. 웹 데이터 수집 라이브러리 (bs4)
  - Beautiful Soup 기본 이해 [Link]()
