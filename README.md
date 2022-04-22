@@ -14,11 +14,11 @@
  - select를 활용한 데이터 가져오기 (LINK)
 
 ### 03. 웹 데이터 수집 라이브러리 (bs4)
- - Beautiful Soup 기본 이해 [Link]()
- - select를 활용한 데이터 가져오기 [Link]()
+ - Beautiful Soup 기본 이해 [Link]
+ - select를 활용한 데이터 가져오기 [Link]
  
 ### 04. 웹 데이터 수집 라이브러리 (selenium)
- - Selenium 기본 이해 [Link]()
+ - Selenium 기본 이해 [PDF](./CL03_01_selenium_basic_2204.pdf)[html](https://ldjwj.github.io/CLASS_PY_LIB_START/CL03_01_selenium_basic_2204.html) 
  
 ### 05. 웹 데이터 수집 실전 응용
  - 영화 리뷰 가져오기
