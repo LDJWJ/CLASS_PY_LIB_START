@@ -41,7 +41,9 @@
  - folium 기본(공간 시각화) [Link]()
  
 ### 09. 텍스트 데이터 처리 및 분석
- - konlpy 기본 [Link]()
+ - konlpy 기본 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_03_01_konlpy_2204_v11.html)
+ - (실습) - 영화 동화책 Alice 텍스트 처리 및 워드 클라우드 시각화
+ - (실습) - 영화 댓글 텍스트 처리 및 워드 클라우드 시각화
  
 ### [실습] Bike 데이터 셋 실전 데이터 분석
 - 데이터 불러오기 및 탐색 
