@@ -30,9 +30,12 @@
  - matplotlib, Seaborn의 기본 이해 및 실습 [Link]()
 
 ### 07. 데이터 처리 라이브러리
- - Pandas 기본 [Link]()
- - Pandas 응용 [Link]()
- 
+ - Pandas 기본정리 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_01_Pandas_기본_v10_2204.pdf)
+ - Pandas 기본 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_02_pandas_Basic_2204.html)
+ - Pandas 응용 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_03_pandas_02_california_0502.html)
+ - Pandas 실습 - Titanic [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_03_titanic_dataset_220502.html)
+ - Pandas 실습 - corona 분석
+
 ### 08. 데이터 시각화(2)
  - Plotly 기본(반응형 시각화) [Link]()
  - folium 기본(공간 시각화) [Link]()
