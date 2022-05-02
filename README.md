@@ -8,15 +8,15 @@
 ### 02. 웹 데이터 수집 라이브러리 (bs4)
  - 크롬 개발자 도구 [PDF](./PYLIB_01_02_크롬개발자도구/PYLIB_01_01_BS4_크롬개발자도구.pdf)
  - Beautiful Soup 기본 이해 
-    - [PDF](./PYLIB_01_02B_BS4/Unit01_01_BS4_Basic.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01A_BS4_Basic.html) 
+    - [PDF](./PYLIB_01_02B_BS4/Unit02_01A_BS4_Basic.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01A_BS4_Basic.html) 
  - Beautiful Soup 상세(기본포함)
-    - [PDF](./PYLIB_01_02B_BS4/Unit01_02_BS4_all_v12_2204.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01B_BS4_all_v12_2204.html) 
+    - [PDF](./PYLIB_01_02B_BS4/Unit02_01B_BS4_all_v12_2204.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01B_BS4_all_v12_2204.html) 
 
  - select를 활용한 데이터 가져오기 (LINK)
  - select를 활용한 데이터 가져오기 [Link]
  
 ### 03. 웹 데이터 수집 라이브러리 (selenium)
- - Selenium 기본 이해 [PDF](./CL03_01_selenium_basic_2204.pdf)[html](https://ldjwj.github.io/CLASS_PY_LIB_START/CL03_01_selenium_basic_2204.html) 
+ - Selenium 기본 이해 [PDF](./CL03_01_selenium_basic_2204.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/CL03_01_selenium_basic_2204.html) 
  
 ### 04. 웹 데이터 수집 실전 응용
  - 영화 리뷰 가져오기
@@ -25,7 +25,7 @@
  - 코로나 데이터 분석
  
 ### 05. 데이터 시각화
- - matplotlib, Seaborn의 기본 이해 및 실습 [Link]()
+ - matplotlib, Seaborn의 기본 이해 및 실습 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_00_B_Seaborn_Basic.html)
 
 ### 06. 데이터 처리 라이브러리
  - Pandas 기본정리 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_01_Pandas_기본_v10_2204.pdf)
