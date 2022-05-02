@@ -8,31 +8,26 @@
 ### 02. 웹 데이터 수집 라이브러리 (bs4)
  - 크롬 개발자 도구 [PDF](./PYLIB_01_02_크롬개발자도구/PYLIB_01_01_BS4_크롬개발자도구.pdf)
  - Beautiful Soup 기본 이해 
-    - [PDF](./PYLIB_01_02B_BS4/Unit01_01_BS4_Basic.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01_02B_BS4/Unit01_01_BS4_Basic.html) 
+    - [PDF](./PYLIB_01_02B_BS4/Unit01_01_BS4_Basic.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01A_BS4_Basic.html) 
  - Beautiful Soup 상세(기본포함)
-    - [PDF](./PYLIB_01_02B_BS4/Unit01_02_BS4_all_v12_2204.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01_02B_BS4/Unit01_02_BS4_all_v12_2204.html) 
- - select를 활용한 데이터 가져오기 (LINK)
+    - [PDF](./PYLIB_01_02B_BS4/Unit01_02_BS4_all_v12_2204.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01B_BS4_all_v12_2204.html) 
 
-### 03. 웹 데이터 수집 라이브러리 (bs4)
- - Beautiful Soup 기본 이해 [Link]
+ - select를 활용한 데이터 가져오기 (LINK)
  - select를 활용한 데이터 가져오기 [Link]
  
-### 04. 웹 데이터 수집 라이브러리 (selenium)
+### 03. 웹 데이터 수집 라이브러리 (selenium)
  - Selenium 기본 이해 [PDF](./CL03_01_selenium_basic_2204.pdf)[html](https://ldjwj.github.io/CLASS_PY_LIB_START/CL03_01_selenium_basic_2204.html) 
  
-### 05. 웹 데이터 수집 실전 응용
+### 04. 웹 데이터 수집 실전 응용
  - 영화 리뷰 가져오기
  - 뉴스 정보 가져오기
  - 아마존 쇼핑몰 정보 가져오기 
  - 코로나 데이터 분석
- - 국민 청원 정보 가져오기 
-   - [Link1](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_02_15_A_국민청원(mac).html) 
-   - [Link2](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_02_15_B_국민청원(mac).html)
  
-### 06. 데이터 시각화
+### 05. 데이터 시각화
  - matplotlib, Seaborn의 기본 이해 및 실습 [Link]()
 
-### 07. 데이터 처리 라이브러리
+### 06. 데이터 처리 라이브러리
  - Pandas 기본정리 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_01_Pandas_기본_v10_2204.pdf)
  - Pandas 기본 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_02_pandas_Basic_2204.html)
  - Pandas 응용 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_03_pandas_02_california_0502.html)
@@ -41,12 +36,10 @@
 
 ### 08. 데이터 시각화(2)
  - Plotly 기본(반응형 시각화) [Link]()
- - folium 기본(공간 시각화) [Link]()
+ - folium 기본(공간 시각화) [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_03_titanic_dataset_220502.html)
  
 ### 09. 텍스트 데이터 처리 및 분석
- - konlpy 기본 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_03_01_konlpy_2204_v11.html)
- - (실습) - 영화 동화책 Alice 텍스트 처리 및 워드 클라우드 시각화
- - (실습) - 영화 댓글 텍스트 처리 및 워드 클라우드 시각화
+ - konlpy 기본 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_01_konlpy_2204_v11.html)
  
 ### [실습] Bike 데이터 셋 실전 데이터 분석
 - 데이터 불러오기 및 탐색 
