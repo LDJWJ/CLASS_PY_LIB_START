@@ -25,6 +25,9 @@
  - 뉴스 정보 가져오기
  - 아마존 쇼핑몰 정보 가져오기 
  - 코로나 데이터 분석
+ - 국민 청원 정보 가져오기 
+   - [Link1](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_02_15_A_국민청원(mac).html) 
+   - [Link2](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_02_15_B_국민청원(mac).html)
  
 ### 06. 데이터 시각화
  - matplotlib, Seaborn의 기본 이해 및 실습 [Link]()
@@ -41,7 +44,9 @@
  - folium 기본(공간 시각화) [Link]()
  
 ### 09. 텍스트 데이터 처리 및 분석
- - konlpy 기본 [Link]()
+ - konlpy 기본 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_03_01_konlpy_2204_v11.html)
+ - (실습) - 영화 동화책 Alice 텍스트 처리 및 워드 클라우드 시각화
+ - (실습) - 영화 댓글 텍스트 처리 및 워드 클라우드 시각화
  
 ### [실습] Bike 데이터 셋 실전 데이터 분석
 - 데이터 불러오기 및 탐색 
