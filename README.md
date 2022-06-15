@@ -36,7 +36,7 @@
 
 ### 08. 데이터 시각화(2)
  - Plotly 기본(반응형 시각화) [Link]()
- - folium 기본(공간 시각화) [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_03_titanic_dataset_220502.html)
+ - folium 기본(공간 시각화) [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_03_03_01_folium_local_2204.html)
  
 ### 09. 텍스트 데이터 처리 및 분석
  - konlpy 기본 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_01_konlpy_2204_v11.html)
