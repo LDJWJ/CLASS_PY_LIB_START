@@ -8,7 +8,7 @@
 ### 02. 웹 데이터 수집 라이브러리 (bs4)
  - 크롬 개발자 도구 [PDF](./PYLIB_01_02_크롬개발자도구/PYLIB_01_01_BS4_크롬개발자도구.pdf)
  - Beautiful Soup 기본 이해 
-    - [PDF](./PYLIB_01_02B_BS4/Unit02_01A_BS4_Basic.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01A_BS4_Basic.html) 
+    - [PDF](./PYLIB_02_01_BS4_Basic_2305.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_02_01_BS4_Basic_2305.html) 
  - Beautiful Soup 상세(기본포함)
     - [PDF](./PYLIB_01_02B_BS4/Unit02_01B_BS4_all_v12_2204.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01B_BS4_all_v12_2204.html) 
 
@@ -25,7 +25,7 @@
  - 코로나 데이터 분석
  
 ### 05. 데이터 시각화
- - matplotlib, Seaborn의 기본 이해 및 실습 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_00_B_Seaborn_Basic.html)
+ - matplotlib, Seaborn의 기본 이해 및 실습 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_05_01_Seaborn_Basic_2305.html)
 
 ### 06. 데이터 처리 라이브러리
  - Pandas 기본정리 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_01_Pandas_기본_v10_2204.pdf)
@@ -40,6 +40,11 @@
  
 ### 09. 텍스트 데이터 처리 및 분석
  - konlpy 기본 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_01_konlpy_2204_v11.html)
+ 
+### 10. ChatGPT API 활용
+ - ChatGPT 기본1 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_01_konlpy_2204_v11.html) 
+ - ChatGPT 기본2 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_01_konlpy_2204_v11.html) 
+ - ChatGPT 감정분석 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_01_konlpy_2204_v11.html) 
  
 ### [실습] Bike 데이터 셋 실전 데이터 분석
 - 데이터 불러오기 및 탐색 
