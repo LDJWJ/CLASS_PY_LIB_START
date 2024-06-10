@@ -8,10 +8,13 @@
 ### 02. 웹 데이터 수집 라이브러리 (bs4)
  - 크롬 개발자 도구 [PDF](./PYLIB_01_02_크롬개발자도구/PYLIB_01_01_BS4_크롬개발자도구.pdf)
  - Beautiful Soup 기본 이해 
-    - [PDF](./PYLIB_02_01_BS4_Basic_2305.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_02_01_BS4_Basic_2305.html) 
- - Beautiful Soup 상세(기본포함)
-    - [PDF](./PYLIB_01_02B_BS4/Unit02_01B_BS4_all_v12_2204.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01B_BS4_all_v12_2204.html) 
-
+    - Simple 버전 
+	 - [PDF](./PYLIB_01_BS4_01_Simple_v02.pdf) [HTML](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01_BS4_01_Simple_v02.html)
+    - Basic 버전
+	 - [PDF](./PYLIB_01_BS4_02_Basic_V11.pdf), [HTML](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_01_BS4_02_Basic_V11.html) 
+    - 추가 설명 버전
+	 - [PDF](./PYLIB_02_01_BS4_Basic_2305.pdf), [HTML](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_02_01_BS4_Basic_2305.html)
+	
  - select를 활용한 데이터 가져오기 (LINK)
  - select를 활용한 데이터 가져오기 [Link]
  
