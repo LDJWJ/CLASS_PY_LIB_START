@@ -28,7 +28,7 @@
  - 코로나 데이터 분석
  
 ### 05. 데이터 시각화
- - matplotlib, Seaborn의 기본 이해 및 실습 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_05_01_Seaborn_Basic_2305.html)
+ - matplotlib, Seaborn의 기본 이해 및 실습 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_05_01_Seaborn_Basic_V11.html)
 
 ### 06. 데이터 처리 라이브러리
  - Pandas 기본정리 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_01_Pandas_기본_v10_2204.pdf)
