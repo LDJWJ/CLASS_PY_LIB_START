@@ -15,11 +15,8 @@
     - 추가 설명 버전
 	 - [PDF](./PYLIB_02_01_BS4_Basic_2305.pdf), [HTML](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_02_01_BS4_Basic_2305.html)
 	
- - select를 활용한 데이터 가져오기 (LINK)
- - select를 활용한 데이터 가져오기 [Link]
- 
 ### 03. 웹 데이터 수집 라이브러리 (selenium)
- - Selenium 기본 이해 [PDF](./CL03_01_selenium_basic_2204.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/CL03_01_selenium_basic_2204.html) 
+ - Selenium 기본 이해 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_START/CL03_01_selenium_basic_V11.pdf), [html](https://ldjwj.github.io/CLASS_PY_LIB_START/CL03_01_selenium_basic_V11.html) 
  
 ### 04. 웹 데이터 수집 실전 응용
  - 영화 리뷰 가져오기
@@ -41,13 +38,14 @@
  - Plotly 기본(반응형 시각화) [Link]()
  - folium 기본(공간 시각화) [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_03_03_01_folium_local_2204.html)
  
-### 09. 텍스트 데이터 처리 및 분석
- - konlpy 기본 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_01_konlpy_2204_v11.html)
+### 09. 텍스트 데이터 처리 및 분석, 시각화
+ - konlpy, nltk 기본 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_03_01_konlpy_nltk_v01_2411.html)
+ - konlpy를 활용한 전처리, 시각화 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_03_02_alice_extreme_V11_2411.html)
  
 ### 10. ChatGPT API 활용
- - ChatGPT 기본1 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_01_konlpy_2204_v11.html) 
- - ChatGPT 기본2 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_01_konlpy_2204_v11.html) 
- - ChatGPT 감정분석 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_01_konlpy_2204_v11.html) 
+ - ChatGPT 기본1(작성중) [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_01_konlpy_2204_v11.html) 
+ - ChatGPT 기본2(작성중) [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_01_konlpy_2204_v11.html) 
+ - ChatGPT 감정분석(작성중) [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_01_konlpy_2204_v11.html) 
  
 ### [실습] Bike 데이터 셋 실전 데이터 분석
 - 데이터 불러오기 및 탐색 
