@@ -28,11 +28,12 @@
  
 ### 05. 데이터 시각화
  - matplotlib, Seaborn의 기본 이해 및 실습 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_05_01_Seaborn_Basic_V11.html)
-
+   - 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/CLASS_PY_LIB_START/blob/main/PYLIB_05_01_Seaborn_Basic_V11.ipynb)
 ### 06. 데이터 처리 라이브러리
  - Pandas 기본정리 [PDF](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_01_Pandas_기본_v10_2204.pdf)
  - Pandas 기본 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_02_pandas_Basic_2204.html)
  - Pandas 응용 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_03_pandas_02_california_0502.html)
+   - 실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/CLASS_PY_LIB_START/blob/main/CL01_04_03_pandas_02_california_V11.ipynb)
  - Pandas 실습 - Titanic [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_04_03_titanic_dataset_220502.html)
  - Pandas 실습 - corona 분석
 
