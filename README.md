@@ -44,6 +44,7 @@
 ### 09. 텍스트 데이터 처리 및 분석, 시각화
  - konlpy, nltk 기본 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_03_01_konlpy_nltk_v01_2411.html)
  - konlpy를 활용한 전처리, 시각화 [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/PYLIB_03_02_alice_extreme_V11_2411.html)
+   -    실습 코드 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LDJWJ/CLASS_PY_LIB_START/blob/main/PYLIB_03_02_alice_extreme_V11.ipynb)
  
 ### 10. ChatGPT API 활용
  - ChatGPT 기본1(작성중) [Link](https://ldjwj.github.io/CLASS_PY_LIB_START/CL01_01_konlpy_2204_v11.html) 
