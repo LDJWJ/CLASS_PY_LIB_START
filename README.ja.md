@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://ldjwj.github.io/CLASS_PY_LIB_START/README.ja.html">
-    <img src="https://img.shields.io/badge/🌐_Web教材はこちら-GitHub_Pages-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Webページ"/>
+    <img src="https://img.shields.io/badge/🌐_Web教材を開く-GitHub_Pages-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Webページ"/>
   </a>
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+"/>
   <img src="https://img.shields.io/badge/BeautifulSoup4-bs4-darkgreen?style=for-the-badge" alt="bs4"/>
@@ -15,9 +15,9 @@
 
 > **Webクローリングからデータ加工、可視化、そしてダッシュボードのデプロイまで！**  
 > BeautifulSoup/SeleniumによるWebデータ収集、Pandasによるデータ前処理、Matplotlib/Seaborn/Foliumによる可視化、ChatGPT APIとの連携、StreamlitによるWebアプリ制作を扱う、Python実務ライブラリの入門教材です。  
-> ⭐️ 学習のお役に立ちましたら、右上の **Star** ボタンを押していただけるとうれしいです！
+> ⭐️ 役に立ったら、右上の **Star** ボタンを押していただけるとうれしいです！
 
-> **ご注意：** 教材（PDF/HTML）はすべて **韓国語** で書かれています。コードはそのまま実行でき、HTMLページはブラウザ（Chromeなど）の自動翻訳で読むことができます。
+> **補足：** 教材（PDF/HTML）はすべて韓国語です。コード自体は言語に依存せずそのまま動作し、HTMLページはブラウザ（Chromeなど）の自動翻訳で読めます。
 
 <p align="center">
   <a href="#️-学習ロードマップ">🗺️ 学習ロードマップ</a> •
@@ -134,11 +134,11 @@ Webページの構造（HTML/CSS）を理解し、Pythonで必要な情報を自
 
 ## 🚲 5. 実践EDAプロジェクト：Bike Sharing Demand
 
-Kaggleの公共自転車レンタル需要予測データセットを使い、前処理から探索的データ分析（EDA）までをやり遂げる総合実践プロジェクトです。
+KaggleのBike Sharing Demand（シェアサイクル需要予測）データセットを使い、前処理から探索的データ分析（EDA）までをやり遂げる総合実践プロジェクトです。
 
-* **Part 1：データの読み込みと基本的な探索**:  
+* **Part 1：データの読み込みと基本的な探索**：  
   [📄 PDF](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_01_Bike_EDA_2204.pdf) · [🌐 HTML](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_01_Bike_EDA_2204.html)
-* **Part 2：時系列と天候の特徴量の可視化（EDA詳細）**:  
+* **Part 2：時系列と天候の特徴量の可視化（EDA詳細）**：  
   [📄 PDF (A)](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_02_Bike_EDA_2204.pdf) · [📄 PDF (B)](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_03_Bike_EDA_2204.pdf)  
   [🌐 HTML (A)](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_02_Bike_EDA_2204.html) · [🌐 HTML (B)](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_03_Bike_EDA_2204.html)
 

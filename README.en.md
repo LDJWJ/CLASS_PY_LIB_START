@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://ldjwj.github.io/CLASS_PY_LIB_START/README.en.html">
-    <img src="https://img.shields.io/badge/🌐_Open_Web_Textbook-GitHub_Pages-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Web Page"/>
+    <img src="https://img.shields.io/badge/🌐_Web_Textbook-GitHub_Pages-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Web Page"/>
   </a>
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+"/>
   <img src="https://img.shields.io/badge/BeautifulSoup4-bs4-darkgreen?style=for-the-badge" alt="bs4"/>
@@ -17,7 +17,7 @@
 > An introductory, hands-on course on practical Python libraries: collecting web data with BeautifulSoup/Selenium, preprocessing data with Pandas, visualizing with Matplotlib/Seaborn/Folium, integrating the ChatGPT API, and building web apps with Streamlit.  
 > ⭐️ If this helps your learning, please give it a **Star** using the button at the top right!
 
-> **Note:** All slides and notebooks (PDF/HTML) are written in Korean. The code runs the same in any language, and your browser's built-in translation (e.g. Chrome) works on the HTML pages.
+> **Note:** All slides and notebooks (PDF/HTML) are in Korean. The code itself is language-independent, and your browser's built-in translation (e.g. Chrome) works on the HTML pages.
 
 <p align="center">
   <a href="#️-learning-roadmap">🗺️ Learning Roadmap</a> •
@@ -134,7 +134,7 @@ A modern, applied section that combines generative AI with a contemporary Python
 
 ## 🚲 5. Hands-on EDA Project: Bike Sharing Demand
 
-A comprehensive hands-on project that uses Kaggle's public bike-rental demand forecasting dataset and takes you all the way from preprocessing to exploratory data analysis (EDA).
+A comprehensive hands-on project that uses Kaggle's Bike Sharing Demand dataset and takes you all the way from preprocessing to exploratory data analysis (EDA).
 
 * **Part 1: Loading the Data and Initial Exploration**:  
   [📄 PDF](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_01_Bike_EDA_2204.pdf) · [🌐 HTML](https://ldjwj.github.io/CLASS_PY_LIB_START/Data_01_01_Bike_EDA_2204.html)
