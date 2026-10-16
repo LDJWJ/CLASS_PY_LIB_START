@@ -1,3 +1,5 @@
+🇰🇷 **한국어** · 🇺🇸 [English](README.en.md) · 🇯🇵 [日本語](README.ja.md)
+
 # 📊 파이썬 데이터 수집 & 분석 라이브러리 기초 (CLASS_PY_LIB_START)
 
 <p align="center">
@@ -16,12 +18,12 @@
 > ⭐️ 학습에 도움이 되셨다면 우측 상단의 **Star** 버튼을 꾹 눌러주세요!
 
 <p align="center">
-  <a href="#-학습-로드맵">🗺️ 학습 로드맵</a> •
-  <a href="#-1-웹-데이터-수집-크롤링--스크래핑">🕷️ 웹 크롤링</a> •
+  <a href="#️-학습-로드맵">🗺️ 학습 로드맵</a> •
+  <a href="#️-1-웹-데이터-수집-크롤링--스크래핑">🕷️ 웹 크롤링</a> •
   <a href="#-2-데이터-가공--처리-pandas">🐼 데이터 처리(Pandas)</a> •
   <a href="#-3-데이터-시각화--텍스트-분석">📈 시각화 & NLP</a> •
   <a href="#-4-최신-응용-chatgpt-api--streamlit-대시보드">🤖 ChatGPT & Streamlit</a> •
-  <a href="#-5-실전-eda-프로젝트-bike-sharing">🚲 실전 프로젝트</a>
+  <a href="#-5-실전-eda-프로젝트-bike-sharing-demand">🚲 실전 프로젝트</a>
 </p>
 
 ---
